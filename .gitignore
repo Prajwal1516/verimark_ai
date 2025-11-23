@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+backend/venv/
+.venv/
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# IDEs and Editors
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Project specific
+biometric_data/
+secure_files/
+.gradio/
+frontend-old/
+biometric_keys.json
+
+# OS generated files
+Thumbs.db
