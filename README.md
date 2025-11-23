@@ -2,8 +2,8 @@
 
 **VeriMark AI** is a cutting-edge biometric file encryption system that combines military-grade encryption with AI-powered biometric authentication. It uses iris and fingerprint data to generate unique watermarks and encryption keys, ensuring that your sensitive files are accessible only by you.
 
-![VeriMark AI Home Page](frontend/public/vite.svg) 
-*(Note: Replace with an actual screenshot of your application)*
+![VeriMark AI Home Page](screenshots/demo.png) 
+*(Note: This is the actual screenshot of your application)*
 
 ## 🚀 Features
 
@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/verimark-ai.git
+    git clone https://github.com/Prajwal1516/verimark_ai.git
     cd verimark-ai
     ```
 
