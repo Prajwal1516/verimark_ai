@@ -2,6 +2,10 @@
 
 **VeriMark AI** is a cutting-edge biometric file encryption system that combines military-grade encryption with AI-powered biometric authentication. It uses iris and fingerprint data to generate unique watermarks and encryption keys, ensuring that your sensitive files are accessible only by you.
 
+<img width="1920" height="870" alt="{31B5CED8-A39F-475D-B9DF-E0D8C8C0636F}" src="https://github.com/user-attachments/assets/201ed54b-11ae-4f3c-bc98-f6fff6703154" />
+Screenshot of the application in dark mode.
+
+
 ## 🚀 Features
 
 -   **Biometric Authentication:** Secure registration and access using Iris and Fingerprint scanning (simulated via image upload).
