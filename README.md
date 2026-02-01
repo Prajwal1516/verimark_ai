@@ -1,4 +1,4 @@
-# VeriMark AI 🛡️
+# VeriMark AI 
 
 **VeriMark AI** is a cutting-edge biometric file encryption system that combines military-grade encryption with AI-powered biometric authentication. It uses iris and fingerprint data to generate unique watermarks and encryption keys, ensuring that your sensitive files are accessible only by you.
 
@@ -6,7 +6,7 @@
 Screenshot of the application in dark mode.
 
 
-## 🚀 Features
+##  Features
 
 -   **Biometric Authentication:** Secure registration and access using Iris and Fingerprint scanning (simulated via image upload).
 -   **AI-Powered Validation:** Deep learning models validate the authenticity of biometric data.
@@ -15,7 +15,7 @@ Screenshot of the application in dark mode.
 -   **Modern UI:** A sleek, responsive, and "Cyber-Security" themed interface built with React and Tailwind CSS.
 -   **Rate Limiting:** Protects against brute-force attacks.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 -   **Framework:** React (Vite)
@@ -29,14 +29,14 @@ Screenshot of the application in dark mode.
 -   **Encryption:** Cryptography (Fernet)
 -   **AI/ML:** PyTorch (for biometric model)
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following installed:
 -   **Node.js** (v16 or higher)
 -   **Python** (v3.8 or higher)
 -   **Git**
 
-## ⚙️ Installation
+##  Installation
 
 1.  **Clone the Repository**
     ```bash
@@ -67,7 +67,7 @@ Before you begin, ensure you have the following installed:
     npm install
     ```
 
-## 🏃‍♂️ Running the Application
+##  Running the Application
 
 You need to run both the backend and frontend servers.
 
@@ -88,7 +88,7 @@ npm run dev
 ```
 The frontend will start at `http://localhost:5173`.
 
-## 📖 Usage
+##  Usage
 
 1.  **Register:**
     -   Go to the **Encrypt File** page.
@@ -104,7 +104,7 @@ The frontend will start at `http://localhost:5173`.
     -   Click "Decrypt File".
     -   If the biometrics match, you can download the original file.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -113,7 +113,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
