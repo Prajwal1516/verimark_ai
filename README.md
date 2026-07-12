@@ -2,6 +2,14 @@
 
 **VeriMark AI** is a cutting-edge biometric file encryption system that combines military-grade encryption with AI-powered biometric authentication. It uses iris and fingerprint data to generate unique watermarks and encryption keys, ensuring that your sensitive files are accessible only by you.
 
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-20232A?logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)
+![AI/ML](https://img.shields.io/badge/Domain-AI%2FML-FF6F00)
+![ACS Algorithm](https://img.shields.io/badge/Optimization-ACS-blueviolet)
+
 <img width="1920" height="870" alt="{31B5CED8-A39F-475D-B9DF-E0D8C8C0636F}" src="https://github.com/user-attachments/assets/201ed54b-11ae-4f3c-bc98-f6fff6703154" />
 Screenshot of the application in dark mode.
 
